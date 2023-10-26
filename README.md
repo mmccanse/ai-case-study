@@ -1,15 +1,15 @@
 # ai-case-study
-# TITLE
+# Blackline - AI offerings in accounting spaces
 
 ## Overview and Origin
 
-* Name of company
+* Name of company: Blackline
 
-* When was the company incorporated?
+* Blackline was incorporated in 2001, and became a publicly traded company in 2016
 
-* Who are the founders of the company?
+* Blackline was founded by Therese Tucker
 
-* How did the idea for the company (or project) come about?
+* Blackline was initially founded to help accounting teams improve their processes by replacing Excel with a suite of accounting software. (wikipedia) Per the company's website and financial statements, Blackline's mission is: "to transform how accounting and finance departments operate, by delivering an indispensable platform to the controller." (company website)  Blackline's platform includes 
 
 * How is the company funded? How much funding have they received?
 
