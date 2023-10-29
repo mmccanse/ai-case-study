@@ -15,9 +15,9 @@
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
+* The specific problem Blackline aims to solve is the overabundance of manual, repetitive, and labor-intensive tasks that dominate accounting departments.  Part of this problem is that companies tend to house their various financial data in various systems that don't always talk to each other. Blackline's platform creates opportunity for companies to integrate their various systems with Blackline, thus allowing more streamlined access to relevant data.
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+* The company's intended customer is enterprise (over $750M annual revenue) and mid-market ($100M-$750M annual revenue) companies.  Per Blackline's Q2 2023 financial results presentation, the Total Available Market among large and underpenetrated companies is comprised of over 200,000 target customers, of whom 4,200 are current Blackline customers. The breakdown of potential Blackline products that the target population could be interested in is as follows: $18.5B Financial Close Market, $10B Accounts Receivable Market, $11B Intercompany Financial Management. 
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
