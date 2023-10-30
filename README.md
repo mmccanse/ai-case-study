@@ -9,7 +9,7 @@
 
 * Blackline was founded by Therese Tucker
 
-* Blackline was initially founded to help accounting teams improve their processes by replacing Excel with a suite of accounting software. (wikipedia) Per the company's website and financial statements, Blackline's mission is: "to transform how accounting and finance departments operate, by delivering an indispensable platform to the controller." (company website)  
+* Blackline was initially founded to help accounting teams improve their processes by replacing Excel with a suite of accounting software. Per the company's website and financial statements, Blackline's mission is: "to transform how accounting and finance departments operate, by delivering an indispensable platform to the controller." 
 
 * Blackline is a publicly traded company. As of 10/27/23 its market cap is$2.98B. Funding sources are a mix of debt and equity, more heavily relying on debt. As of 6/30/23, its debt to equity ratio (long-term debt divided by stockholder's equity) is 7.86.
 
