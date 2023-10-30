@@ -51,7 +51,7 @@
 
 ## Addendum - Sources Referenced
 
-* chat.openai.com
+* https://chat.openai.com/
 
 * https://www.forbes.com/sites/noahbarsky/2023/08/09/too-many-finance-teams-lack-will-and-skill-ai-wave-demands/?sh=62d802616d66
 
