@@ -54,9 +54,11 @@
 * Chat GPT
 https://chat.openai.com/
 
-* https://www.forbes.com/sites/noahbarsky/2023/08/09/too-many-finance-teams-lack-will-and-skill-ai-wave-demands/?sh=62d802616d66
+* "Why Boards Need to Invest in Finance AI's Success"
+https://www.forbes.com/sites/noahbarsky/2023/08/09/too-many-finance-teams-lack-will-and-skill-ai-wave-demands/?sh=62d802616d66
 
-* https://investors.blackline.com/news-releases/news-release-details/blackline-expands-accounts-receivable-automation-solutions-e
+* Blackline news release
+https://investors.blackline.com/news-releases/news-release-details/blackline-expands-accounts-receivable-automation-solutions-e
 
 * https://www.blackline.com/solutions/accounts-receivable-automation/
 
