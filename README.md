@@ -45,6 +45,34 @@
 
 * The above mentioned solutions would benefit Blackline because they would save customers significant time and labor in performing day to day accounting operations. These solutions would also likely increase accuracy and bring to light issues or anamolies that may or may not have been flagged by accounting teams.  Blackline aims to be a full CFO platform, and the above mentioned solutions are key functions in the accounting space.
 
-* Preparing accrual journal entries would require ?
+* All three of the above recommended solutions, accruals, variance analysis, and revenue contract review, would require supervised machine learning, neural networks, natural language processing, and transformer model process. would be able to look at financial data across the organization and possibly also in the larger economic context to provide explanations for variances. 
 
-* Why are these technologies appropriate for your solution?
+* The data provided would be labeled and fall into specific categories such as period or type of expense/revenue for accruals, period and GL account or financial statement line item for variance analysis. In revenue recognition there are 5 steps to determine when and how much revenue should be recognized, these steps involve categorized data.  For the variance analysis in particular, neural networks would be able to look at financial data across the organization and possibly also in the larger economic context to provide explanations for variances. For reviewing revenue agreements, natural language processing through a transformer model process would be needed to infer meaning and to classify elements of the contract being reviewed.
+
+## Addendum - Sources Referenced
+
+* chat.openai.com
+
+* https://www.forbes.com/sites/noahbarsky/2023/08/09/too-many-finance-teams-lack-will-and-skill-ai-wave-demands/?sh=62d802616d66
+
+* https://investors.blackline.com/news-releases/news-release-details/blackline-expands-accounts-receivable-automation-solutions-e
+
+* https://www.blackline.com/solutions/accounts-receivable-automation/
+
+* https://finance.yahoo.com/quote/BL?p=BL
+
+* https://en.wikipedia.org/wiki/BlackLine_Systems#:~:text=The%20company's%20IPO%20was%20October,Nasdaq%20under%20the%20symbol%20BL.
+
+* https://kpmg.com/xx/en/home/insights/2022/07/artificial-intelligence-machine-learning.html
+
+* chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://investors.blackline.com/static-files/3c25bae6-5d63-4a65-aebb-4383bfb4f118
+
+* https://www.blackline.com/blog/how-ai-is-changing-the-game-for-intercompany/
+
+* https://www.blackline.com/blog/machine-learning-experts/
+
+* https://newrelic.com/blog/best-practices/blackline-monitoring-tools-cost
+
+* https://www.globenewswire.com/en/news-release/2023/04/06/2642559/0/en/Accounting-Software-Market-Projected-to-Hit-USD-29-80-Billion-at-a-9-2-CAGR-by-2030-Report-by-Market-Research-Future-MRFR.html
+
+* https://www.marketresearchfuture.com/reports/accounting-software-market-7749
