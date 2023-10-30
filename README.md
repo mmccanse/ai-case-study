@@ -60,22 +60,36 @@ https://www.forbes.com/sites/noahbarsky/2023/08/09/too-many-finance-teams-lack-w
 * Blackline news release
 https://investors.blackline.com/news-releases/news-release-details/blackline-expands-accounts-receivable-automation-solutions-e
 
-* https://www.blackline.com/solutions/accounts-receivable-automation/
+* Blackline website
+https://www.blackline.com/solutions/accounts-receivable-automation/
 
-* https://finance.yahoo.com/quote/BL?p=BL
+* Yahoo Finance
+https://finance.yahoo.com/quote/BL?p=BL
 
-* https://en.wikipedia.org/wiki/BlackLine_Systems#:~:text=The%20company's%20IPO%20was%20October,Nasdaq%20under%20the%20symbol%20BL.
+* Wikipedia
+https://en.wikipedia.org/wiki/BlackLine_Systems#:~:text=The%20company's%20IPO%20was%20October,Nasdaq%20under%20the%20symbol%20BL.
 
-* https://kpmg.com/xx/en/home/insights/2022/07/artificial-intelligence-machine-learning.html
+* KPMG, "Artificial Intelligence & Machine Learning"
+https://kpmg.com/xx/en/home/insights/2022/07/artificial-intelligence-machine-learning.html
 
-* chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://investors.blackline.com/static-files/3c25bae6-5d63-4a65-aebb-4383bfb4f118
+* Blackline investor presentation Q2, 2023
+https://investors.blackline.com/static-files/3c25bae6-5d63-4a65-aebb-4383bfb4f118
 
-* https://www.blackline.com/blog/how-ai-is-changing-the-game-for-intercompany/
+* Blackline blog
+https://www.blackline.com/blog/how-ai-is-changing-the-game-for-intercompany/
 
-* https://www.blackline.com/blog/machine-learning-experts/
+* Blackline blog
+https://www.blackline.com/blog/machine-learning-experts/
 
-* https://newrelic.com/blog/best-practices/blackline-monitoring-tools-cost
+* New Relic blog
+https://newrelic.com/blog/best-practices/blackline-monitoring-tools-cost
 
-* https://www.globenewswire.com/en/news-release/2023/04/06/2642559/0/en/Accounting-Software-Market-Projected-to-Hit-USD-29-80-Billion-at-a-9-2-CAGR-by-2030-Report-by-Market-Research-Future-MRFR.html
+* "Accounting Software Market Projected to Hit USD 29.80 Billion at a 9.2% CAGR by 2030 - Report by Market Research Future (MRFR)"
+https://www.globenewswire.com/en/news-release/2023/04/06/2642559/0/en/Accounting-Software-Market-Projected-to-Hit-USD-29-80-Billion-at-a-9-2-CAGR-by-2030-Report-by-Market-Research-Future-MRFR.html
 
-* https://www.marketresearchfuture.com/reports/accounting-software-market-7749
+* Market Research Future website
+https://www.marketresearchfuture.com/reports/accounting-software-market-7749
+
+* Blackline 10Q SEC Filing
+https://www.sec.gov/ix?doc=/Archives/edgar/data/1666134/000166613423000010/bl-20230630.htm#if7d7ca0c806d45909ccd73b2a608da0c_19
+
